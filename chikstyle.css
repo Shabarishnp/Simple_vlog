@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+}
+.container1{
+    height: 100%;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.gray{
+    background-color: gray;
+    height: 493px;
+    width: 875px;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.img{
+    height: 100%;
+    width: 100%;
+    background-image: url(chikmagalur.jpg);
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin-left: 315px;
+    margin-right: 315px;
+    margin-top: 50px;
+}
+.p1{
+    font-size: 19px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 305px;
+    margin-right: 305px;
+    margin-top: 30px;
+}
+.container2{
+    height: 100vh;
+    width: 100vw;
+}
+.img2{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    margin-left: 120px;
+    background-image: url(travelling.jpg);
+    margin-top: 180px;
+}
+.yellowgreen{
+    background: yellowgreen;
+    height: 450px;
+    width: 900px;
+    margin-left: 400px;
+    margin-top: -350px;
+}
+.img3{
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    background-image: url(package.jpg);
+    margin-left: 320px;
+    margin-top: 80px;
+}
+.p3{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;   
+}
+.p4{
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 15px;   
+}
+.container3{
+    height: 100vh;
+    width: 100vw;
+}
+.skyblue{
+    background: rgb(154, 191, 206);
+    height: 900px;
+    width: 700px;
+    margin-top: 970px;
+    margin-left: 80px;
+}
+.img4{
+    position: absolute;
+    height: 300px;
+    width: 490px;
+    background-image: url(istockphoto.jpg);
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.img5{
+    position: absolute;
+    height: 350px;
+    width: 520px;
+    background-image: url(Nirvana.jpg);
+    margin-left: 30px;
+    margin-top: 470px;
+}
+.img6{
+    height: 400px;
+    width: 600px;
+    background-image: url(JhariFalls.jpg);
+    margin-left: 650px;
+    margin-top: -650px;
+}
+.p5{
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 300px;
+    text-align: center;
+}
